@@ -1,0 +1,140 @@
+
+h1{
+    font-family: "Allerta Stencil", Sans-serif;
+}
+#one:hover{
+    background-color: #4cc9f0;
+  -webkit-box-shadow: 10px 10px 99px 6px rgba(76,201,240,1);
+  -moz-box-shadow: 10px 10px 99px 6px rgba(76,201,240,1);
+  box-shadow: 10px 10px 99px 6px rgba(76,201,240,1);
+  
+
+}
+#two:hover{
+    background-color: #2ac400;
+  -webkit-box-shadow: 10px 10px 99px 6px rgb(5, 168, 43);
+  -moz-box-shadow: 10px 10px 99px 6px rgba(5, 168, 43);
+  box-shadow: 10px 10px 99px 6px rgba(5, 168, 43);
+
+}
+#five:hover{
+  background-color: #eb1893;
+  -webkit-box-shadow: 10px 10px 99px 6px rgb(212, 10, 178);
+  -moz-box-shadow: 10px 10px 99px 6px rgb(168, 5, 152);
+  box-shadow: 10px 10px 99px 6px rgb(168, 5, 127);
+}
+#three:hover{
+    background-color: #ec202e;
+  -webkit-box-shadow: 10px 10px 99px 6px rgb(250, 29, 55);
+  -moz-box-shadow: 10px 10px 99px 6px rgba(250, 29, 55);
+  box-shadow: 10px 10px 99px 6px rgba(250, 29, 55);
+
+}
+#four:hover{
+  background-color: #e5ec20;
+  -webkit-box-shadow: 10px 10px 99px 6px rgb(239, 250, 29);
+  -moz-box-shadow: 10px 10px 99px 6px rgb(209, 250, 29);
+  box-shadow: 10px 10px 99px 6px rgb(250, 220, 29);
+
+}
+body{
+    background-color: rgb(157, 51, 186);
+    margin: 0;
+}
+
+    
+  
+  
+  #good {
+     background-image: linear-gradient(to right, #b525e1, #e44040);
+     box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+  }
+
+ 
+#btnn{
+
+    border: #ec202e;
+    border-radius: 25px;
+    position: fixed;
+  right: 10px;
+  bottom: 2px;
+  background-image: linear-gradient(to right, #fb01ff, #f6ff00);
+    box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+}
+#ok {
+    background-image: linear-gradient(to right, #e18925, #00ff51);
+    box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+ }
+ #kk{
+  background-image: linear-gradient(to right, #e12531, #ddff00);
+    box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+ }
+
+ #kk:hover{
+  box-shadow: 15px 15px 15px rgba(0,0 ,0 ,0.4);
+  transform: scale(1.05);
+  transition: 0.5s;
+ }
+ #good:hover{
+  box-shadow: 15px 15px 15px rgba(0,0 ,0 ,0.4);
+  transform: scale(1.05);
+  transition: 0.5s;
+ }
+ #ok:hover{
+  box-shadow: 15px 15px 15px rgba(0,0 ,0 ,0.4);
+  transform: scale(1.05);
+  transition: 0.5s;
+ }
+ #k:hover{
+  box-shadow: 15px 15px 15px rgba(0,0 ,0 ,0.4);
+  transform: scale(1.05);
+  transition: 0.5s;
+ }
+ #o{
+  background-image: linear-gradient(to right, #0088e3, #1f1f1c);
+  box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+ } 
+#o:hover{
+  box-shadow: 15px 15px 15px rgba(0,0 ,0 ,0.4);
+  transform: scale(1.05);
+  transition: 0.5s;
+}
+ #btnn:hover{
+  box-shadow: 15px 15px 15px rgba(0,0 ,0 ,0.4);
+  transform: scale(1.05);
+  transition: 0.5s;
+  border-radius: 10px;
+ }
+ #k {
+  background-image: linear-gradient(to right, #5e1c1c, #25225e);
+  box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+ }
+ #achaa{
+  font-family: Silkscreen;
+  font-size: larger;
+ }
+
+
+ #better{
+  font-family: Nabla;
+  position: absolute;
+  bottom: 40%; 
+  right: 25%;
+  font-size: 75px;
+ }
+#last{
+  background-color: rgb(215, 161, 239);
+  height: auto;
+  width: auto;
+  object-fit: fill;
+  line-height: 20%;
+}
+#main{
+  line-height: 5%;
+}
+#videos{
+  object-fit: fill;
+
+height: 710px;
+  width: 1472px;
+}
